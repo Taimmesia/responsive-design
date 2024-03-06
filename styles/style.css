@@ -10,4 +10,16 @@ h1 {
 .navlist ul {
   list-style: none;
   display: flex;
+  justify-content: center;
+}
+
+img {
+  float: right;
+}
+
+h2 {
+  font-size: 90px;
+  font-weight: 500;
+  line-height: 102px;
+  letter-spacing: -2px;
 }/*# sourceMappingURL=style.css.map */
