@@ -1,5 +1,9 @@
 img {
   float: right;
+  width: 50%;
+  height: 100%;
+  object-fit: cover;
+  float: right;
   position: relative;
   bottom: 100px;
 }
@@ -21,6 +25,10 @@ p {
 }
 
 .recipe-content {
+  max-width: 416px;
+  width: 100px;
+  min-height: 246px;
+  width: 100%;
   position: relative;
   top: 100px;
   left: 100px;
