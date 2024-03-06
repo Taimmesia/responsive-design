@@ -1,5 +1,8 @@
 img {
   float: right;
+  position: relative;
+  bottom: 100px;
+  right: 100px;
 }
 
 h2 {
@@ -7,4 +10,16 @@ h2 {
   font-weight: 500;
   line-height: 102px;
   letter-spacing: -2px;
+}
+
+p {
+  max-width: 410px;
+  min-height: 98px;
+  font-size: 22px;
+}
+
+.recipe-content {
+  position: relative;
+  top: 100px;
+  left: 100px;
 }

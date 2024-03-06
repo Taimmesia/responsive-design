@@ -1,2 +1,8 @@
 @import "./header";
 @import "./main";
+
+.container {
+  max-width: 1440px;
+  width: 100%;
+  min-height: 810px;
+}
