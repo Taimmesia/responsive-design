@@ -5,4 +5,9 @@ h1 {
   line-height: 36px;
   letter-spacing: -0.25px;
   text-align: left;
+}
+
+.navlist ul {
+  list-style: none;
+  display: flex;
 }/*# sourceMappingURL=style.css.map */
