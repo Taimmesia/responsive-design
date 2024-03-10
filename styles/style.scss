@@ -10,7 +10,7 @@
   grid-template-rows: repeat(10, 1fr);*/
 }
 
-@media screen and (max-width: 768px) /* desktop first*/ {
+@media screen and (min-width: 768px) /* desktop first*/ {
   .navlist ul {
     list-style: none;
     display: flex;
@@ -40,7 +40,7 @@
   }
 }
 
-@media screen and (max-width: 320px) /*mobile first*/ {
+@media screen and (min-width: 320px) /*mobile first*/ {
   h2 {
     font-size: 36px;
     line-height: 39.6px;
